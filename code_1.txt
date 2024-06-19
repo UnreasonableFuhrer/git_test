@@ -1,2 +1,2 @@
 line 1: loop;
-line 2; f * f = g;
+line 2: f * f = g;
